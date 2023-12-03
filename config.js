@@ -25,16 +25,16 @@ import moment from 'moment-timezone'
 
 /*==============USER-INFO==============*/
 global.owner = [
-  ['8801853262586', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
+  ['6281284760551', 'ꜱʟᴀꜱʜᴇʀ ᴏꜰꜰɪᴄɪᴀʟ', true], 
   ['put your number', 'your-name', true] 
 ] 
 
-global.mods = ['put-your-number','8801853262586'] //Don't replace this,If you want to add someone add any dev
+global.mods = ['put-your-number','6281284760551'] //Don't replace this,If you want to add someone add any dev
 global.prems = ['put-premium-user-number','']
-global.nomorbot = 'your-bot-number' //Change it to your own
+global.nomorbot = '6281284760551' //Change it to your own
 global.nomorown = 'owner-number' //Change it to your own
-global.namebot = 'bot-name' //change it to your own
-global.nameown = 'owner-name' // change it to your own
+global.namebot = 'R-ASSSISTENT' //change it to your own
+global.nameown = 'R-ASSSISTENT' // change it to your own
 
 //*============= ==============*/
 
@@ -153,7 +153,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+880 1853 262586'
+global.phn = '+62 812 8476 0551'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
